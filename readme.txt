@@ -5,3 +5,17 @@ Realizamos una ardua búsqueda de sitios  que nos sirvan de referencia e inspira
 
 
 Wireframe: https://wireframe.cc/pro/pp/367557011499779
+
+Breve descripción de los integrantes:
+
+Integrante: Matias Tomas Almanza
+Edad: 21
+Actualmente me encuentro trabajando en Konecta Argentina como representante Social Media, en mis tiempos libres hago cursos de programación web, para poder el día de mañana dedicarme a lo que me gusta.
+
+Integrante: Noelia Franco
+Edad: 32
+Soy pastelera profesional. Actualmente trabajo en Apex, en atención al cliente, área soporte técnico de internet. Por medio de amigos empecé a conocer más acerca del mundo IT, me fue interesando cada vez más y quise aprender. Actualmente el curso género un entusiasmo aún mayor para seguir aprendiendo, investigando y preparándome para afrontar los nuevos desafíos que promete la transformación tecnológica.
+
+Integrante: Leandro Ricardo Cabrera
+Edad: 49 años
+Soy Licenciado en Administración, con experiencia en el área comercial, atención al cliente y presupuestación. Actualmente pertenezco al equipo de una empresa de transporte de cargas generales originaria de la provincia del Chaco. Una de mis principales funciones es cotizar servicios de flete a personas y empresas que han realizado compras de productos a través de internet.
